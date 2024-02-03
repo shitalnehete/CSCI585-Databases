@@ -1,0 +1,23 @@
+
+1. Strong and weak relationships are represented by solid and dotted lines respectively.
+2. Student enrolls in a course.
+3. Student joins a group who do projects.
+4. Student pay fees.
+5. Student can borrow 4 books at max from the library.
+6. Library contains books which student can borrow.
+7. Instructor teaches course.
+8. Instructor supervise projects.
+9. Instructor recommend textbooks for courses.
+10. Instructor gets payed according to the hours taught and supervised.
+11. Each group sits on a table.
+12. Table has a storage box.
+13. Storage box contains various tools.
+14. Tools come from warehouse.
+15. Warehouse gets stocked by the tools which atre ordered.
+16. Suppliers fulfill the order.
+17. Order are placed by owners.
+18. Students are required to submitted the tools after completion of the projects.
+19. If the tools are damaged, students are fined a penalty.
+20. Room are available for courses and projects.
+21. Students are required to rate the instructor, project and course.
+22. Payment has 3 categories, salary that is given to instructors, fees are collected by students and penalty is paid by students for damaged tools.
